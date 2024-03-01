@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Joylen Faye E. Genovea
+- 👋 Hi, I’m Joylen Faye E. Genovea!
 - 👀 I’m interested in designing, organizing, code and the arts
 - 🌱 I’m currently learning java and c language!
 - 💞️ I’m looking to collaborate on different aspirant programmers/learners just like me
